@@ -1,0 +1,10 @@
+C:\Users\Owner-14\Desktop\CodeFolders\MoshUdemy\obj\Debug\netcoreapp2.0\MoshUdemy.csproj.CoreCompileInputs.cache
+C:\Users\Owner-14\Desktop\CodeFolders\MoshUdemy\obj\Debug\netcoreapp2.0\MoshUdemy.AssemblyInfoInputs.cache
+C:\Users\Owner-14\Desktop\CodeFolders\MoshUdemy\obj\Debug\netcoreapp2.0\MoshUdemy.AssemblyInfo.cs
+C:\Users\Owner-14\Desktop\CodeFolders\MoshUdemy\bin\Debug\netcoreapp2.0\MoshUdemy.deps.json
+C:\Users\Owner-14\Desktop\CodeFolders\MoshUdemy\bin\Debug\netcoreapp2.0\MoshUdemy.runtimeconfig.json
+C:\Users\Owner-14\Desktop\CodeFolders\MoshUdemy\bin\Debug\netcoreapp2.0\MoshUdemy.runtimeconfig.dev.json
+C:\Users\Owner-14\Desktop\CodeFolders\MoshUdemy\bin\Debug\netcoreapp2.0\MoshUdemy.dll
+C:\Users\Owner-14\Desktop\CodeFolders\MoshUdemy\bin\Debug\netcoreapp2.0\MoshUdemy.pdb
+C:\Users\Owner-14\Desktop\CodeFolders\MoshUdemy\obj\Debug\netcoreapp2.0\MoshUdemy.dll
+C:\Users\Owner-14\Desktop\CodeFolders\MoshUdemy\obj\Debug\netcoreapp2.0\MoshUdemy.pdb
