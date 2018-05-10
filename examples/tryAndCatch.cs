@@ -2,9 +2,9 @@ using System;
 
 namespace MoshUdemy
 {
-    class Program
+    class example
     {
-        static void Main(string[] args)
+        static void Example(string[] args)
         {
             // the number is too large to convert to a byte so here we are basically error checking our program so it does
             // not crash and insttead gives the user a friendly message about the function
@@ -20,3 +20,4 @@ namespace MoshUdemy
             }
         }
     }
+}
